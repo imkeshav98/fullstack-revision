@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#job-list-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 75%;
+    margin: 1em auto;
+}
+
+.job-list-left__right {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 10px;
+    gap: 5px;
+}
+
+.job-list-left {
+    display: flex;
+    align-items: center;
+}
+
+.job-list-right {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.job-list-right span {
+    background-color: aquamarine;
+    height: 1.6em;
+    padding: 0em 0.5em;
+}
+
+nav {
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+    margin: 2em 0em;
+}
+
+nav select {
+    display: flex;
+    flex-direction: column;
+}
