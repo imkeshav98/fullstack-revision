@@ -1,0 +1,13 @@
+.maindiv {
+  border-left: 3px solid gray;
+  padding-left: 7px;
+}
+
+.inner {
+  margin-top: 10px;
+}
+.comment * {
+  margin-right: 20px;
+  font-size: 14px;
+  color: rgb(48, 46, 46);
+}
