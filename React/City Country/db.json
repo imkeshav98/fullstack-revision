@@ -1,0 +1,130 @@
+{
+  "country": [
+    {
+      "id": 1,
+      "country": "France"
+    },
+    {
+      "id": 2,
+      "country": "India"
+    },
+    {
+      "id": 3,
+      "country": "Iceland"
+    },
+    {
+      "id": 4,
+      "country": "Russia"
+    },
+    {
+      "id": 5,
+      "country": "Ukraine"
+    },
+    {
+      "id": 6,
+      "country": "Korea"
+    },
+    {
+      "id": 7,
+      "country": "Switzerland"
+    },
+    {
+      "id": 8,
+      "country": "Japan"
+    },
+    {
+      "id": 9,
+      "country": "Mexico"
+    },
+    {
+      "id": 10,
+      "country": "Israel"
+    },
+    {
+      "id": 11,
+      "country": "New Zealand"
+    },
+    {
+      "id": 12,
+      "country": "Italy"
+    },
+    {
+      "country": "Pakistan",
+      "id": 13
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "Country": "Ukraine",
+      "City": "Kiev",
+      "Population": "4500000"
+    },
+    {
+      "id": 2,
+      "Country": "Korea",
+      "City": "Seoul",
+      "Population": "49000000"
+    },
+    {
+      "id": 3,
+      "Country": "Switzerland",
+      "City": "Bern",
+      "Population": "8000000"
+    },
+    {
+      "id": 4,
+      "Country": "Mexico",
+      "City": "Mexico City",
+      "Population": "8000000"
+    },
+    {
+      "id": 5,
+      "Country": "France",
+      "City": "Paris",
+      "Population": "8000000"
+    },
+    {
+      "id": 6,
+      "Country": "India",
+      "City": "New Delhi",
+      "Population": "8000000"
+    },
+    {
+      "id": 7,
+      "Country": "Israel",
+      "City": "Hadera",
+      "Population": "97000"
+    },
+    {
+      "id": 8,
+      "Country": "Japan",
+      "City": "Tokyo",
+      "Population": "34630000"
+    },
+    {
+      "id": 9,
+      "Country": "Italy",
+      "City": "Rome",
+      "Population": "674530000"
+    },
+    {
+      "id": 10,
+      "Country": "New Zealand",
+      "City": "Hamilton",
+      "Population": "180000 "
+    },
+    {
+      "id": 11,
+      "Country": "Iceland",
+      "City": "Reykjavik",
+      "Population": "30000"
+    },
+    {
+      "id": 12,
+      "Country": "Russia",
+      "City": "Moscow",
+      "Population": "14000000"
+    }
+  ]
+}
