@@ -1,0 +1,76 @@
+.Home {
+  display: flex;
+}
+
+.sideBar {
+  width: 100%;
+}
+
+.register {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+.register label {
+  margin: 5px;
+}
+.register input {
+  margin: 5px;
+}
+
+.toDo {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.inProgress {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.done {
+  width: 100%;
+  border: 1px solid black;
+}
+
+/* individual task */
+.taskIndiv {
+  margin: 5%;
+  border: 1px solid blue;
+  padding: 1%;
+}
+
+.taskIndivFlex {
+  display: flex;
+}
+
+.login {
+  margin-right: 5px;
+}
+
+.headingNae1 {
+  margin-top: 0%;
+
+  padding: 4%;
+  text-align: center;
+  background-color: #ff5f00;
+}
+
+.headingNae2 {
+  color: #eeeeee;
+  margin-top: 0%;
+  padding: 4%;
+  text-align: center;
+  background-color: #00b277;
+}
+
+.headingNae3 {
+  color: #eeeeee;
+  margin-top: 0%;
+
+  padding: 4%;
+  text-align: center;
+  background-color: #1137d2;
+}

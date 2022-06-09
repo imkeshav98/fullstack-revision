@@ -1,0 +1,142 @@
+{
+  "todos": [
+    {
+      "title": "map it",
+      "description": "assignment",
+      "subtasks": [
+        {
+          "id": "4b967a95-8810-426a-b085-576694be8dac",
+          "subtaskTitle": "init map",
+          "subtaskStatus": true
+        },
+        {
+          "id": "33af65d0-bcb2-4f07-802a-8416f88a516e",
+          "subtaskTitle": "show pointer",
+          "subtaskStatus": true
+        }
+      ],
+      "status": "Done",
+      "tags": {
+        "official": true,
+        "personal": false,
+        "others": false
+      },
+      "date": "2022-06-09",
+      "id": 1
+    },
+    {
+      "title": "assignments",
+      "description": "working on assignments",
+      "subtasks": [
+        {
+          "id": "f41e2d91-ea24-4d9f-a259-124593f28ef6",
+          "subtaskTitle": "redux todo",
+          "subtaskStatus": false
+        }
+      ],
+      "status": "InProgress",
+      "tags": {
+        "official": true,
+        "personal": false,
+        "others": false
+      },
+      "date": "2022-06-09",
+      "id": 2
+    },
+    {
+      "title": "twitterSchema",
+      "description": "assignments",
+      "subtasks": [
+        {
+          "id": "67d5bf97-308b-4939-b1ab-96bab62d3dbe",
+          "subtaskTitle": "userSchema",
+          "subtaskStatus": true
+        },
+        {
+          "id": "0aabcd40-5da9-4ee2-9129-157e95294579",
+          "subtaskTitle": "tweetschma",
+          "subtaskStatus": true
+        },
+        {
+          "id": "48523dfb-027d-4fa9-a4ab-92a07e629c95",
+          "subtaskTitle": "commentSchma",
+          "subtaskStatus": true
+        },
+        {
+          "id": "a84c8c72-1658-4111-b9d7-a54a2acd6862",
+          "subtaskTitle": "controllers done",
+          "subtaskStatus": true
+        }
+      ],
+      "status": "Done",
+      "tags": {
+        "official": true,
+        "personal": false,
+        "others": false
+      },
+      "date": "2022-09-05",
+      "id": 3
+    },
+    {
+      "title": "get new laptop",
+      "description": "old laptop issue",
+      "subtasks": [
+        {
+          "id": "df881dd3-3a02-44b3-bb72-200ae92bb82c",
+          "subtaskTitle": "mousepad",
+          "subtaskStatus": false
+        },
+        {
+          "id": "d94df853-d883-438f-91b0-8c0a2b5ff3e0",
+          "subtaskTitle": "need mouse",
+          "subtaskStatus": false
+        },
+        {
+          "id": "e2549b42-7d91-4e9b-8f2b-46fecbb9e95f",
+          "subtaskTitle": "need keyboard",
+          "subtaskStatus": false
+        }
+      ],
+      "status": "Todo",
+      "tags": {
+        "official": false,
+        "personal": true,
+        "others": false
+      },
+      "date": "",
+      "id": 6
+    },
+    {
+      "title": "iphone",
+      "description": "dream phone",
+      "subtasks": [
+        {
+          "id": "3b850700-38ef-41da-b8ac-5c9d04bc39d0",
+          "subtaskTitle": "done 1",
+          "subtaskStatus": false
+        }
+      ],
+      "status": "Todo",
+      "tags": {
+        "official": false,
+        "personal": true,
+        "others": false
+      },
+      "date": "2022-05-29",
+      "id": 7
+    },
+    {
+      "title": "holiday",
+      "description": "Good morning",
+      "subtasks": [],
+      "status": "Todo",
+      "tags": {
+        "official": true,
+        "personal": false,
+        "others": false
+      },
+      "date": "2022-05-27",
+      "id": 8
+    }
+  ]
+}
